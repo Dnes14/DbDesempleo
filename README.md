@@ -1,1 +1,3 @@
-# DbDesempleo
+#  INFORME Recomendaciones basadas en datos para combatir el desempleo
+
+El presente informe analiza la situación del desempleo y sus factores asociados, utilizando una base de datos generada mediante codigo en PYTHON para ejemplificar y modelar escenarios realistas del mercado laboral. A través de diversas visualizaciones y análisis detallados en Power BI, se han identificado patrones significativos que permiten comprender mejor la dinámica del desempleo en diferentes sectores y grupos demográficos. Este estudio no solo presenta hallazgos relevantes sobre las tendencias actuales, sino que también propone recomendaciones estratégicas basadas en evidencia para abordar este importante desafío socioeconómico.
